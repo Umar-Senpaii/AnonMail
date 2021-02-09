@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.AnonMail">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/cute_hacker"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/cute_hacker"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity android:name="com.example.AnonMail.Dashboard"></activity>
+        <activity android:name="com.example.AnonMail.LogIn" />
+        <activity android:name="com.example.AnonMail.SignUp" />
+        <activity android:name="com.example.AnonMail.OnBoarding" />
+        <activity android:name="com.example.AnonMail.OnSend" />
+        <activity android:name="com.example.AnonMail.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

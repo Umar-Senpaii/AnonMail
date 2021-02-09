@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131821635150",
+    "project_id": "anonmail-59538",
+    "storage_bucket": "anonmail-59538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131821635150:android:d1cc6bb4063e15a830651f",
+        "android_client_info": {
+          "package_name": "com.example.spoofmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131821635150-4229ma3ricfn8q12l7s1vd1sj96afc06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2JCxI5F2ue8IfIKo1FJ-qGXYPt-925PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131821635150-4229ma3ricfn8q12l7s1vd1sj96afc06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

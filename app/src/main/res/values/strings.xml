@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AnonMail</string>
+
+    <!-- Strings for On Boarding Screen -->
+
+    <!-- Files -->
+
+    <string name="first_slide_title">About Application</string>
+    <string name="second_slide_title">Save Record</string>
+    <string name="third_slide_title">Disclaimer</string>
+
+    <!-- Description -->
+
+    <string name="first_slide_description">this slide is About Application</string>
+    <string name="second_slide_description">this slide is about Saving Sent Mails</string>
+    <string name="third_slide_description">this is Disclaimer</string>
+
+    <!-- Buttons -->
+
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Lets Get Started</string>
+
+</resources>
